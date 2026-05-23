@@ -19,22 +19,7 @@ The dataset used in this project is the Netflix Movies and TV Shows dataset from
 - Seaborn
 - Jupyter Notebook
 
-## Project Structure
 
-```text
-netflixdata/
-+-- data/
-|   +-- netflix_data.csv
-+-- image/
-|   +-- movies_tvshows.png
-|   +-- netflix_release_trend.png
-|   +-- top10_country.png
-|   +-- top10_netflix_genres.png
-+-- notebook/
-|   +-- netflix.ipynb
-+-- .gitignore
-+-- README.md
-```
 
 ## Analysis Performed
 
@@ -75,11 +60,6 @@ netflixdata/
 
 Open the Jupyter notebook in the `notebook/` folder:
 
-```text
-notebook/netflix.ipynb
-```
-
-The charts shown in this README are saved in the `image/` folder. They will display on GitHub after you push the full project folder, including the `image` directory.
 
 ## Author
 
