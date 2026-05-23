@@ -60,6 +60,8 @@ The dataset used in this project is the Netflix Movies and TV Shows dataset from
 
 Open the Jupyter notebook in the `notebook/` folder:
 
+## Exploratory data analysis of a Kaggle dataset.
+
 
 ## Author
 
